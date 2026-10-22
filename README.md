@@ -10,4 +10,4 @@ solutions of Problem Sets done by me while I did the CS50p course.
                 8.[Problem Set 7](problem_set-7/solutions)  
                 9.[Problem Set 8](problem_set-8/solutions)  
                 
-                * Questions are in questions.md of each respective problem set folder *
+                *(Questions are in questions.md of each respective problem set folder)*
