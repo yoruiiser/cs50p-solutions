@@ -1,4 +1,3 @@
 # cs50p-solutions
-Solutions of Problem Sets done by me while I did the CS50p course/
-
-                       1.[Problem Set 0](problem_set-0/solutions)
+Solutions of Problem Sets done by me while I did the CS50p course     
+                1.[Problem Set 0](problem_set-0/solutions)
