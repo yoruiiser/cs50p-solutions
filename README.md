@@ -1,5 +1,5 @@
 # cs50p-solutions
-solutions of Problem Sets done by me while I did the CS50p course.  
+**solutions of Problem Sets done by me while I did the CS50p course.** 
                 1.[Problem Set 0](problem_set-0/solutions)  
                 2.[Problem Set 1](problem_set-1/solutions)  
                 3.[Problem Set 2](problem_set-2/solutions)  
@@ -10,4 +10,4 @@ solutions of Problem Sets done by me while I did the CS50p course.
                 8.[Problem Set 7](problem_set-7/solutions)  
                 9.[Problem Set 8](problem_set-8/solutions)  
                 
-                *(Questions are in questions.md of each respective problem set folder)*
+                Questions are in questions.md of each respective problem set folder
