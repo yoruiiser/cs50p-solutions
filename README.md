@@ -1,7 +1,6 @@
 # **cs50p-solutions**
    
-## *Solutions along with questions of Problem Sets done by me while I did the CS50p course.*  
-<
+*Solutions along with questions of Problem Sets done by me while I did the CS50p course.*  
                 1.[Problem Set 0](problem_set-0/solutions) , [Questions of Problem Set-0](problem_set-0/questions.md)  
                 <br>
                 2.[Problem Set 1](problem_set-1/solutions) , [Questions of Problem Set-1](problem_set-1/questions.md)  
