@@ -1,4 +1,4 @@
-1. [File Extensions](https://cs50.harvard.edu/python/psets/1/extensions/)
+1. [Indoor Voice](https://cs50.harvard.edu/python/psets/1/indoor/)
 2. [Playback Speed](https://cs50.harvard.edu/python/psets/0/playback/)
 3. [Making Faces](https://cs50.harvard.edu/python/psets/0/faces/)
 4. [Einstein](https://cs50.harvard.edu/python/psets/0/einstein/)
