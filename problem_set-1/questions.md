@@ -1,1 +1,5 @@
-
+1. [Deep Thought](https://cs50.harvard.edu/python/psets/1/deep/)
+2. [Home Federal Savings Bank](https://cs50.harvard.edu/python/psets/1/bank/)
+3. [File Extensions](https://cs50.harvard.edu/python/psets/1/extensions/)
+4. [Math Interpreter](https://cs50.harvard.edu/python/psets/1/interpreter/)
+5. [Meal Time](https://cs50.harvard.edu/python/psets/1/meal/)
