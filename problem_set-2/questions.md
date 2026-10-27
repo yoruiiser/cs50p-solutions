@@ -1,4 +1,4 @@
-1. [camelCase](https://cs50.harvard.edu/python/psets/2/camel/)
+1. [CamelCase](https://cs50.harvard.edu/python/psets/2/camel/)
 2. [Coke Machine](https://cs50.harvard.edu/python/psets/2/coke/)
 3. [Just setting up my twttr](https://cs50.harvard.edu/python/psets/2/twttr/)
 4. [Vanity Plates](https://cs50.harvard.edu/python/psets/2/plates/)
