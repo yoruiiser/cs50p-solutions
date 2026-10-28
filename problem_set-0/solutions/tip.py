@@ -1,3 +1,4 @@
+
 def main():
     dollars = dollars_to_float(input("How much was the meal? "))
     percent = percent_to_float(input("What percentage would you like to tip? "))
@@ -6,17 +7,13 @@ def main():
 
 
 def dollars_to_float(d):
-    # TODO
-    dollars=dollars.strip("$")
-    dollars=float(dollars)
-    return(dollars)
+    dollars = d.strip("$")
+    return float(dollars)
+
 
 def percent_to_float(p):
-    # TODO
-    percent=percent.strip("%")
-    percent=float(percent)
-    return(percent)
+    percent = p.strip("%")
+    return float(percent) / 100
 
 
 main()
-
