@@ -1,1 +1,6 @@
-
+1. [Emojize](https://cs50.harvard.edu/python/psets/4/emojize/)
+2. [Frank, Ian and Glen’s Letters](https://cs50.harvard.edu/python/psets/4/figlet/)
+3. [Adieu, Adieu](https://cs50.harvard.edu/python/psets/4/adieu/)
+4. [Guessing Game](https://cs50.harvard.edu/python/psets/4/game/)
+5. [Little Professor](https://cs50.harvard.edu/python/psets/4/professor/)
+6. [Bitcoin Price Index](https://cs50.harvard.edu/python/psets/4/bitcoin/)
